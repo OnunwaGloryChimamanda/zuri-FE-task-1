@@ -1,0 +1,31 @@
+body {
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+}
+
+h2 {
+    font-family: sans-serif;
+}
+
+h4{
+    font-size: 30px;
+}
+
+button {
+    border-radius:20px ;
+    margin: 2em;
+    padding: 1em;
+    color: white;
+    background-color: rgb(114, 114, 216);
+}
+button:hover {
+    background-color: gray;
+}
+
+input {
+    padding: 1em;
+    margin: 1em ;
+}
